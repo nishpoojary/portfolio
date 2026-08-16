@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-label="Virtual Art Gallery placeholder image">
+  <defs>
+    <linearGradient id="bg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3f3cbb" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="500" fill="url(#bg)" rx="30" />
+  <rect x="110" y="90" width="220" height="320" rx="28" fill="#e0e7ff" opacity="0.9" />
+  <rect x="370" y="100" width="200" height="280" rx="18" fill="#c7d2fe" />
+  <circle cx="470" cy="190" r="38" fill="#312e81" />
+  <rect x="610" y="110" width="150" height="120" rx="16" fill="#6366f1" />
+  <rect x="610" y="260" width="150" height="90" rx="16" fill="#a5b4fc" />
+  <text x="450" y="450" fill="#ffffff" font-family="Inter, sans-serif" font-size="42" text-anchor="middle">Gallery</text>
+</svg>

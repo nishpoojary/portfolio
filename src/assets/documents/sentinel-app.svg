@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-label="Sentinel App placeholder image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="500" fill="url(#bg)" rx="30" />
+  <rect x="80" y="100" width="220" height="260" rx="18" fill="#0f172a" stroke="#64748b" stroke-width="12" />
+  <rect x="350" y="90" width="430" height="320" rx="18" fill="#1e293b" stroke="#64748b" stroke-width="12" />
+  <path d="M390 160h320M390 210h280M390 260h260" stroke="#38bdf8" stroke-width="12" stroke-linecap="round" />
+  <text x="450" y="420" fill="#ffffff" font-family="Inter, sans-serif" font-size="48" text-anchor="middle">Sentinel App</text>
+</svg>

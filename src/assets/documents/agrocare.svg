@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-label="AgroCare placeholder image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#134e4a" />
+      <stop offset="100%" stop-color="#166534" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="500" fill="url(#bg)" rx="30" />
+  <circle cx="250" cy="250" r="140" fill="#ecfccb" opacity="0.9" />
+  <path d="M210 210c20-35 60-35 80 0 22 42 60 44 80 0" fill="none" stroke="#15803d" stroke-width="24" stroke-linecap="round" />
+  <path d="M220 310h180" stroke="#15803d" stroke-width="24" stroke-linecap="round" />
+  <rect x="520" y="130" width="260" height="240" rx="24" fill="#f8fafc" opacity="0.9" />
+  <text x="450" y="450" fill="#ffffff" font-family="Inter, sans-serif" font-size="48" text-anchor="middle">AgroCare</text>
+</svg>
